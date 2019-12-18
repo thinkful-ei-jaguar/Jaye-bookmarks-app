@@ -27,5 +27,5 @@ Jaye Laguardia's Solo Bookmark App for Thinkful's Software Engineering Immersion
 
 9. I can select from a dropdown (a <select> element) a "minimum rating" to filter the list by all bookmarks rated at or above the chosen selection
   
-## gh-pages link:
+  ## gh-pages link:
 https://thinkful-ei-jaguar.github.io/Jaye-bookmarks-app/
